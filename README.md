@@ -1,4 +1,8 @@
-## Hi there 👋
+Hi，我是洋洋
+大二计算机专业学生
+正在系统学习Java
+目前向Java后端方向学习
+持续记录自己的编程成长过程
 
 <!--
 **Pei1Coding/Pei1Coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
