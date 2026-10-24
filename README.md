@@ -1,4 +1,5 @@
 # ⛏️ 欢迎来到我的方块世界！
+![我的像素世界](https://raw.githubusercontent.com/Pei1Coding/Pei1Coding/main/226a5347-48dc-43d4-bbdb-6a10e61d1af8.png)
 
 ```text
           ☁️       🌙        ☁️
@@ -63,20 +64,6 @@
 
 🔗 [查看项目](https://github.com/你的用户名/你的项目仓库)
 
-### 🌐 全栈开发基地
-
-将前端交互、后端服务和数据存储组合起来，把完整的产品想法变成现实。
-
-- 🚀 核心方向：完整应用开发
-- 🛠️ 技术栈：请替换为项目实际使用的技术
-
-🔗 [查看项目](https://github.com/你的用户名/你的项目仓库)
-
-## 📊 我的开发记录
-
-![GitHub 统计](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=tokyonight&hide_border=true&locale=cn)
-
-![常用编程语言](https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=tokyonight&hide_border=true&locale=cn)
 
 ## 🗺️ 当前冒险任务
 
